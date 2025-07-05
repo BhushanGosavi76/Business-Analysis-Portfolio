@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Define the markdown content based on the optimized case study provided
-markdown_content = """
 # 📌 Project: BA-Driven Email Workflow Optimization & Escalation Mapping
 
 ## 🧭 Context
